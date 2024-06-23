@@ -9,6 +9,10 @@ Queues are a common data structure that follows the First-In-First-Out (FIFO) pr
 
     🔗 View here: [Linear Queue](./Menu_Driven_Code_for_Linear_Queue.py)
 
+2. ### **Circular Queue**
+    A circular queue overcomes the limitation of a linear queue by reusing empty spaces at the beginning of the queue. It uses a circular buffer or a modulo operation to wrap around and fill the empty spaces. The menu-driven code for a circular queue offers options to enqueue, dequeue, display the queue, check if it is empty, check if it is full, and exit. Special attention should be given to handle the circular nature of the queue when performing enqueue and dequeue operations.
+
+    🔗 View here: [Circular Queue](./Menu_Driven_Code_for_Circular_Queue.py)
 
 
  ## **Setup Instructions**
