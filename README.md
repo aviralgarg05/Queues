@@ -14,6 +14,12 @@ Queues are a common data structure that follows the First-In-First-Out (FIFO) pr
 
     🔗 View here: [Circular Queue](./Menu_Driven_Code_for_Circular_Queue.py)
 
+3. ### **Priority Queue**
+    A priority queue assigns a priority value to each element, and the element with the highest priority is dequeued first. The menu-driven code for a priority queue provides options to enqueue elements with their respective priorities, dequeue elements based on priority, display the queue, check if it is empty, check if it is full, and exit. It typically employs a suitable data structure like a heap or a binary search tree to maintain the priority order efficiently.
+
+    🔗 View here: [Priority Queue](./Menu_Driven_Code_for_Priority_Queue.py)
+
+
 
  ## **Setup Instructions**
 
