@@ -18,7 +18,10 @@ Queues are a common data structure that follows the First-In-First-Out (FIFO) pr
     A priority queue assigns a priority value to each element, and the element with the highest priority is dequeued first. The menu-driven code for a priority queue provides options to enqueue elements with their respective priorities, dequeue elements based on priority, display the queue, check if it is empty, check if it is full, and exit. It typically employs a suitable data structure like a heap or a binary search tree to maintain the priority order efficiently.
 
     🔗 View here: [Priority Queue](./Menu_Driven_Code_for_Priority_Queue.py)
+4. ### **Dynamic Linear Queue using Linked List**
+    A dynamic linear queue implemented using a linked list allows for a queue with dynamic memory allocation. The menu-driven code for this structure includes options to enqueue elements, dequeue elements, display the queue, check if it is empty, check if it is full (not applicable for linked list implementation), and exit.
 
+    🔗 View here: [Dynamic Linear Queue using Linked List](./Menu_Driven_Code_for_Dynamic_Linear_Queue_using_LinkedList.py)
 
 
  ## **Setup Instructions**
